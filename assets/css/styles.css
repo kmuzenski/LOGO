@@ -26,11 +26,16 @@ a {
    font-family:pretty;
 }
 
+
 p {
 	color:#1D7DC2;
    font-family:pretty;
 }
 
+li {
+	color:#1D7DC2;
+	font-family: pretty;
+}
 
 .navbar {
    background-color: transparent;
