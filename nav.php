@@ -19,10 +19,10 @@
           	
 		<ul class="nav navbar-nav">
 		
-		<li><a href="index.php">Home</a></li>
-    <li><a href="contact.php">Contact</a></li>
-    <li><a href="gallery.php">Gallery</a></li>
-    <li><a href="properties.php">Properties</a></li>
+		<li><a href="index.php"><p>Home</p></a></li>
+    <li><a href="contact.php"><p>Contact</p></a></li>
+    <li><a href="gallery.php"><p>Gallery</p></a></li>
+    <li><a href="properties.php"><p>Properties</p></a></li>
 
    </ul>
 
