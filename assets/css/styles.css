@@ -35,11 +35,11 @@ p {
 .navbar {
    background-color: transparent;
    background: transparent;
-   border-color: transparent;
+   border-color: #1D7DC2;
 }
 
 .navbar li { 
-	color: #9428a8; 
+	color: #1D7DC2; 
 }
 
 
