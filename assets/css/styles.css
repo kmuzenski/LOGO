@@ -40,18 +40,7 @@ li {
 .jumbotron {
 	background-image: url("../img/jumbo.jpg");
 	background-size: cover;
-}
-
-.jumbotron p {
-	color:#FFFFFF;
-}
-
-.jumbotron h1 {
-	color: #FFFFFF;
-}
-
-.jumbotron h3 {
-	color: #FFFFFF;
+	color: 
 }
 
 .navbar {
@@ -64,10 +53,5 @@ li {
 	color: #1D7DC2; 
 }
 
-.divBorder {
-	border-style: solid;
-	border-color: #1D7DC2;
-	border-width: 5px;
 
-}
 

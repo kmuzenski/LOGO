@@ -19,11 +19,11 @@
           	
 		<ul class="nav navbar-nav">
 		
-		<li><a href="#"><p>Home</p></a></li>
+		<li><a href="index.php"><p>Home</p></a></li>
 
     <li class="dropdown">
-      <a class="dropdown-toggle" data-toggle="dropdown" href="contact.php">
-        <p>Contact<span class="caret"></span></p>
+      <a class="dropdown-toggle" data-toggle="dropdown" href="contacts.php">
+        <p>Contacts<span class="caret"></span></p>
     </a>
         <ul class="dropdown-menu">
           <li><a href="faq.php">FAQ</a></li>
