@@ -22,7 +22,7 @@
 		<li><a href="index.php"><p>Home</p></a></li>
 
     <li class="dropdown">
-      <a class="dropdown-toggle" data-toggle="dropdown" href="contacts.php">
+      <a class="dropdown-toggle" data-toggle="dropdown" href="#">
         <p>Contacts<span class="caret"></span></p>
     </a>
         <ul class="dropdown-menu">
