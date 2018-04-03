@@ -25,9 +25,10 @@
       <a class="dropdown-toggle" data-toggle="dropdown" href="#">
         <p>Contacts<span class="caret"></span></p>
     </a>
+  </li>
         <ul class="dropdown-menu">
           <li><a href="faq.php">FAQ</a></li>
-          <li><a href="contacts.php">Connect</a></li>
+          <li><a href="contacts.php">Contacts</a></li>
         </ul>
     <li><a href="gallery.php"><p>Gallery</p></a></li>
     <li><a href="properties.php"><p>Properties</p></a></li>

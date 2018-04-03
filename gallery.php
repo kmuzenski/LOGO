@@ -108,6 +108,9 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+
+
+<?php require_once('footer.php'); ?>
 <script>
 function navHide() {
   var x = document.getElementById("hideThis");
@@ -119,8 +122,6 @@ function navHide() {
   }
 }
 </script>
-
-<?php require_once('footer.php'); ?>
 
 
 </body>
