@@ -27,7 +27,7 @@
     </a>
         <ul class="dropdown-menu">
           <li><a href="faq.php">FAQ</a></li>
-          <li><a href="office.php">Offices</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
     <li><a href="gallery.php"><p>Gallery</p></a></li>
     <li><a href="properties.php"><p>Properties</p></a></li>
