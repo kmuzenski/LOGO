@@ -10,7 +10,7 @@
 <?php require_once('nav.php'); ?>
 <br><br><br><br><br><br>
 
-<div class="container">
+<div class="container" id="hideThis">
 	<div class="row divBorder">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center>
@@ -32,6 +32,18 @@
 
 <br><br><br><br><br>
 <?php require_once('footer.php'); ?>
+<script>
+function navHide() {
+	var x = document.getElementById("hideThis");
+	if (x.style.display ==="none") {
+		x.style.display = "block";
+	}
+	else {
+		x.style.display = "none";
+	}
+}
+</script>
+
 
 </body>
 </html>

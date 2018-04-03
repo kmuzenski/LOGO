@@ -8,7 +8,7 @@
 <?php require_once('nav.php'); ?>
 <br><br><br><br>
 
-<div class="container">
+<div class="container" id="hideThis">
   <div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
@@ -21,7 +21,7 @@
 
 <br>
 
-<div class="container">
+<div class="container" id="hideThis">
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 
@@ -108,6 +108,18 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+<script>
+function navHide() {
+  var x = document.getElementById("hideThis");
+  if (x.style.display ==="none") {
+    x.style.display = "block";
+  }
+  else {
+    x.style.display = "none";
+  }
+}
+</script>
+
 <?php require_once('footer.php'); ?>
 
 
