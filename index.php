@@ -15,7 +15,7 @@
 <div id="hideThis">
 
 <div class="jumbotron">
-	<img src="jumbo.jpg">
+	<img src="assets/img/jumbo.jpg">
 
 	<center>
 	<h1>LOGO</h1>
