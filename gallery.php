@@ -30,7 +30,7 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/one.JPG">
+  <img src="assets/img/one.jpg">
   </center>
   <div class="numbertext"><center>1 / 4</center></div>
 
@@ -38,21 +38,21 @@
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/two.JPG" style="width:35%">
+  <img src="assets/img/two.jpg" style="width:35%">
   </center>
   <div class="numbertext"><center>2 / 4</center></div>
 </div>
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/three.JPG" style="width:35%">
+  <img src="assets/img/three.jpg" style="width:35%">
   </center>
   <div class="numbertext"><center>3 / 4</center></div>
 </div>
 
 <div class="mySlides">
   <center>
-  <img src="assets/img/four.JPG" style="width:35%">
+  <img src="assets/img/four.jpg" style="width:35%">
   </center>
   <div class="numbertext"><center>4 / 4</center></div>
 </div>
