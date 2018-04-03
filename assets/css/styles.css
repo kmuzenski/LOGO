@@ -38,7 +38,7 @@ li {
 }
 
 .jumbotron {
-	background-image: url("assets/img/jumbo.jpg");
+	background-image: url("../img/jumbo.jpg");
 	background-size: cover;
 }
 
