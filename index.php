@@ -15,13 +15,11 @@
 <div id="hideThis">
 
 <div class="jumbotron" id="jumbotron">
-
 	<center>
 	<h1>LOGO</h1>
-
-	<br><br>
 	<h3>Mission statement</h3>
 	<p>Paragraph paragraph paragraph. </p>
+	</center>
 </div>
 
 
