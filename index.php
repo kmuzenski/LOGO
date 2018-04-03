@@ -13,12 +13,16 @@
 
 
 <div id="hideThis">
-<h1>LOGO</h1>
 
-<br><br><br><br>
-<p>Mission statement</p>
-<br><br>
+<div class="jumbotron">
+	<img src="jumbo.jpg">
 
+	<center>
+	<h1>LOGO</h1>
+
+	<br><br>
+	<h3>Mission statement</h3>
+	<p>Paragraph paragraph paragraph. </p>
 </div>
 
 
