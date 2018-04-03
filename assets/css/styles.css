@@ -61,5 +61,9 @@ li {
 	color: #1D7DC2; 
 }
 
-
+.divBorder {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #1D7DC2;
+}
 
