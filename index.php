@@ -14,7 +14,7 @@
 
 <div id="hideThis">
 
-<div class="jumbotron">
+<div class="jumbotron" id="jumbotron">
 
 	<center>
 	<h1>LOGO</h1>
