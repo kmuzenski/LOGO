@@ -15,7 +15,6 @@
 <div id="hideThis">
 
 <div class="jumbotron">
-	<img src="assets/img/jumbo.jpg" width="100%">
 
 	<center>
 	<h1>LOGO</h1>

@@ -37,6 +37,11 @@ li {
 	font-family: pretty;
 }
 
+.jumbotron {
+	background-image: url("../img/jumbo.jpg");
+	background-size: cover;
+}
+
 .navbar {
    background-color: transparent;
    background: transparent;
