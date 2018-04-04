@@ -10,7 +10,7 @@
 
 <div class="container" id="hideThis">
   <div class="row" id="hideThis">
-		<div class="col-xs-12 col-md-12 col-lg-12">
+		<div class="col-xs-12 col-md-12 col-lg-12" id="hideThis">
 		<center>
 		<h2> Gallery</h2><br>
     <p>Paragraph Here</p>
@@ -22,7 +22,7 @@
 <br>
 
 <div class="container" id="hideThis">
-	<div class="row">
+	<div class="row" id="hideThis">
 		<div class="col-xs-12 col-md-12 col-lg-12" id="hideThis">
 
 
@@ -81,6 +81,19 @@
 <br><br><br><br>
 
 
+
+<?php require_once('footer.php'); ?>
+<script>
+function navHide() {
+  var x = document.getElementById("hideThis");
+  if (x.style.display ==="none") {
+    x.style.display = "block";
+  }
+  else {
+    x.style.display = "none";
+  }
+}
+</script>
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
@@ -109,21 +122,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-
-<?php require_once('footer.php'); ?>
-<script>
-function navHide() {
-  var x = document.getElementById("hideThis");
-  if (x.style.display ==="none") {
-    x.style.display = "block";
-  }
-  else {
-    x.style.display = "none";
-  }
-}
-</script>
-
 
 </body>
 </html>
