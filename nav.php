@@ -31,6 +31,7 @@
           <li><a href="contacts.php">Contacts</a></li>
         </ul>
     </li>
+
     <li><a href="gallery.php"><p>Gallery</p></a></li>
     <li><a href="properties.php"><p>Properties</p></a></li>
 
@@ -41,6 +42,7 @@
     <li><a href="#"><p>Login</p></a></li>
 
     </ul>
+       
        </div>
    </div>
 

@@ -9,7 +9,7 @@
 <br><br><br><br>
 
 <div class="container" id="hideThis">
-  <div class="row">
+  <div class="row" id="hideThis">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 		<center>
 		<h2> Gallery</h2><br>
@@ -23,10 +23,10 @@
 
 <div class="container" id="hideThis">
 	<div class="row">
-		<div class="col-xs-12 col-md-12 col-lg-12">
+		<div class="col-xs-12 col-md-12 col-lg-12" id="hideThis">
 
 
-<div class="slideshow-container">
+<div class="slideshow-container" id="hideThis">
 
 <div class="mySlides">
   <center>
@@ -61,7 +61,7 @@
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </center>
-</div>
+
 
 
 <div style="text-align:center">
@@ -74,6 +74,7 @@
 
 		</div><!-- col row container -->
 	</div>
+</div>
 </div>
 
 <br><br><br><br>
